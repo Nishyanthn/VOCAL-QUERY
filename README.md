@@ -1,4 +1,4 @@
-# 🏆 **AI-Powered Text-to-SQL Generator for PostgreSQL Databases**
+# 🏆 **AI-Powered Speech-to-SQL Generator for PostgreSQL Databases**
 
 ![Project Banner](assets/pic.png)  
 *Transforming Natural Language into SQL Queries Instantly!*
@@ -7,12 +7,12 @@
 
 ## 🚀 **Overview**
 
-Welcome to the **Text-to-SQL Query Generator**, a cutting-edge tool that transforms natural language into SQL queries effortlessly. Our product leverages the power of OpenAI's LLM (Large Language Model) to generate SQL queries based on your input. Not only can you generate queries, but you can also execute them directly on a PostgreSQL database. 
+Welcome to the **Speech-to-SQL Query Generator**, a cutting-edge tool that transforms natural language into SQL queries effortlessly. Our product leverages the power of OpenAI's LLM (Large Language Model) to generate SQL queries based on your input. Not only can you generate queries, but you can also execute them directly on a PostgreSQL database. 
 
 But that's not all! Our project goes beyond simple query generation. With the integration of **LangChain**, we enable advanced data analysis capabilities, allowing you to fetch and analyze data from tables with millions or even billions of rows and columns. Whether you're a data scientist, analyst, or developer, this tool is designed to make your life easier.
 
 ### **Key Highlights:**
-✔️ Convert **simple text inputs** into SQL queries effortlessly.  
+✔️ Convert **simple audio or text inputs** into SQL queries effortlessly.  
 ✔️ Execute queries instantly on **PostgreSQL databases**.  
 ✔️ Analyze and fetch data from **millions or even billions of rows**.  
 ✔️ **LangChain-powered** AI model for enhanced database interaction.  
@@ -100,7 +100,7 @@ The AI will generate and execute the respective SQL query, fetching the results 
 
 ## 🖼️ **Screenshots**
 
-### **1️⃣ Text-to-SQL Dashboard page**
+### **1️⃣ speech-to-SQL Dashboard page**
 ![Query Conversion](images/dashboard.png)  
 *Your Central Hub for all activities.*
 
@@ -115,8 +115,8 @@ The AI will generate and execute the respective SQL query, fetching the results 
 ---
 
 
-## 💡 **Why Use Text-to-SQL AI?**
-✅ **No SQL Knowledge Required** – Convert plain text into queries.  
+## 💡 **Why Use Speech-to-SQL AI?**
+✅ **No SQL Knowledge Required** – Just talk and convert it into queries.  
 ✅ **Instant Execution** – Run queries directly on PostgreSQL.  
 ✅ **Handles Large Datasets** – Analyze massive tables efficiently.  
 ✅ **AI-Driven Optimization** – LangChain enhances query accuracy.  

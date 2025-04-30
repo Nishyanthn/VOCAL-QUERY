@@ -1,6 +1,6 @@
 # 🏆 **AI-Powered Speech-to-SQL Generator for PostgreSQL Databases**
 
-![Project Banner](assets/pic.png)  
+![Project Banner](images/pic.png)  
 *Transforming Natural Language into SQL Queries Instantly!*
 
 ---
@@ -101,15 +101,15 @@ The AI will generate and execute the respective SQL query, fetching the results 
 ## 🖼️ **Screenshots**
 
 ### **1️⃣ speech-to-SQL Dashboard page**
-![Query Conversion](images/dashboard.png)  
+![Query Conversion](images/home(1).png)  
 *Your Central Hub for all activities.*
 
 ### **2️⃣ Query Execution & Output**
-![Query Output](images/convert.png)  
+![Query Output](images/build.png)  
 *User input transformed into an SQL query and Execution of the generated SQL query in PostgreSQL.*
 
 ### **3️⃣ AI-Powered Data Analysis with LangChain**
-![Large-Scale Analysis](assets/analysis.jpg)  
+![Large-Scale Analysis](assets/analyse.png)  
 *Retrieving and analyzing large datasets seamlessly.*
 
 ---

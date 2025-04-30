@@ -101,7 +101,7 @@ The AI will generate and execute the respective SQL query, fetching the results 
 ## 🖼️ **Screenshots**
 
 ### **1️⃣ speech-to-SQL Dashboard page**
-![Query Conversion](images/home.png)  
+![Query Conversion](images/home(1).png)  
 *Your Central Hub for all activities.*
 
 ### **2️⃣ Query Execution & Output**

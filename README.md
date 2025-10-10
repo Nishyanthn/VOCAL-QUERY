@@ -7,9 +7,9 @@
 
 ## 🚀 **Overview**
 
-Welcome to the **Speech-to-SQL Query Generator**, a cutting-edge tool that transforms natural language into SQL queries effortlessly. Our product leverages the power of OpenAI's LLM (Large Language Model) to generate SQL queries based on your input. Not only can you generate queries, but you can also execute them directly on a PostgreSQL database. 
+Welcome to the **Speech-to-SQL Query Generator**, a cutting-edge tool that transforms natural language into SQL queries effortlessly. Our product leverages the power of Gemini's LLM (Large Language Model) to generate SQL queries based on your input. Not only can you generate queries, but you can also execute them directly on a PostgreSQL database. 
 
-But that's not all! Our project goes beyond simple query generation. With the integration of **LangChain**, we enable advanced data analysis capabilities, allowing you to fetch and analyze data from tables with millions or even billions of rows and columns. Whether you're a data scientist, analyst, or developer, this tool is designed to make your life easier.
+But that's not all! Our project goes beyond simple query generation.  we enable advanced data analysis capabilities, allowing you to fetch and analyze data from tables with millions or even billions of rows and columns. Whether you're a data scientist, analyst, or developer, this tool is designed to make your life easier.
 
 ### **Key Highlights:**
 ✔️ Convert **simple audio or text inputs** into SQL queries effortlessly.  
